@@ -1,6 +1,3 @@
-Here's a README file for your project, including instructions on dependencies, installation, and running the project.
-
-```markdown
 # Ransomware Prevention System
 
 This project demonstrates a basic ransomware prevention system by integrating encryption, anomaly detection, and alerting functionalities. The system encrypts sensitive data, detects anomalies in the data, and sends an alert if an anomaly is detected.
